@@ -1,8 +1,8 @@
 <div align="center">
-<img title="Banner" src="https://img.freepik.com/premium-vector/software-tester-typographic-header-application-website-code-testing-soft👋
-ware-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-illustration_277904-15092.jpg?w=826">
-</div>
 
+<img title="Software Tester" alt="Alt text" src="https://img.freepik.com/premium-vector/software-tester-typographic-header-application-website-code-testing-software-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-illustration_277904-15092.jpg?w=996">
+</div>
+&nbsp;
 <h1 align="center">👀 Hello World, I'm Angela Ribeiro</h1>
 <h3 align="center">Jr QA Analyst 🐞🔍 from Portugal 🇵🇹</h3>
 
