@@ -1,5 +1,5 @@
 <div align="center">
-!<img title="a title" alt="Alt text" src="https://img.freepik.com/premium-vector/software-tester-typographic-header-application-website-code-testing-software-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-illustration_277904-15092.jpg?w=826">
+!<img title="banner" alt="Alt text" src="https://img.freepik.com/premium-vector/software-tester-typographic-header-application-website-code-testing-software-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-illustration_277904-15092.jpg?w=826">
 </div>
 
 <h1 align="center">Hello World, I´m Angela Ribeiro</h1>
