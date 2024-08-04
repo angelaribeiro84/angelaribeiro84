@@ -1,5 +1,5 @@
 <div align="center">
-<img title="a title" alt="Alt text" src="https://img.freepik.com/premium-vector/software-tester-typographic-header-application-website-code-testing-soft👋
+<img title="Banner" src="https://img.freepik.com/premium-vector/software-tester-typographic-header-application-website-code-testing-soft👋
 ware-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-illustration_277904-15092.jpg?w=826">
 </div>
 
@@ -8,7 +8,7 @@ ware-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-ill
 
 &nbsp;
 
-✏️ I´m a dedicated and meticulous QA analyst. I have a keen focus on detail, ensuring that every aspect of the software is rigorously evaluated through a comprehensive test sweep. My efficient and productive communication within the team facilitates collaboration and quick problem resolution. Staying up to date with the latest tools and methodologies is, for me, a passion. Furthermore, I value empathy, always trying to ensure that the final product is intuitive and "user friendly". With these qualities, I seek to evolve with success and distinction in the field of QA
+✏️ I´m a dedicated and meticulous QA analyst. I have a keen focus on detail, ensuring that every aspect of the software is rigorously evaluated through a comprehensive test sweep. My efficient and productive communication within the team facilitates collaboration and quick problem resolution. Staying up to date with the latest tools and methodologies is, for me, a passion. Furthermore, I value empathy, always trying to ensure that the final product is intuitive and "user friendly". With these qualities, I seek to evolve with success and distinction in the field of QA<br>
 
 &nbsp;
 
@@ -17,9 +17,9 @@ ware-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-ill
 🤝 **I’m looking for** help to improve my knowledge and my networking 🧐🌐<br>
 🌱 **I’m currently learning** new stacks 💻⚙️<br>
 💬 **Ask me about** the courage to make a professional career transition 📚🙋<br>
-📧 **How to reach me angelaribeirosilva@gmail.com**
+📧 **How to reach me angelaribeirosilva@gmail.com**<br>
 📄 **Know about my experiences [https://www.linkedin.com/in/angelaribeiro84/](https://www.linkedin.com/in/angelaribeiro84/)**<br>
-⚡ **Fun fact** I’m a Barbie collector 🩰🎀 Tarot enthusiast 🔮 Horse and cat lover 🐎🐈
+⚡ **Fun fact** I’m a Barbie collector 🩰🎀 Tarot enthusiast 🔮 Horse and cat lover 🐎🐈<br>
 
 &nbsp;
 
