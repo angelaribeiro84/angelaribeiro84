@@ -7,7 +7,7 @@
 
 💬 I´m a dedicated and meticulous QA analyst. I have a keen focus on detail, ensuring that every aspect of the software is rigorously evaluated through a comprehensive test sweep. My efficient and productive communication within the team facilitates collaboration and quick problem resolution. Staying up to date with the latest tools and methodologies is, for me, a passion. Furthermore, I value empathy, always trying to ensure that the final product is intuitive and "user friendly". With these qualities, I seek to evolve with success and distinction in the field of QA
 &nbsp;
-🔭 **I’m currently seeking to** launch 🚀 a brilliant carreer ✨ as Jr QA Analyst 🐞🔍<br>👯 **I’m looking to collaborate** on new projects👩‍💻 🆕<br>🤝 **I’m looking for** help to improve my knowledge and my networking 🧐🌐<br>🌱 **I’m currently learning** new stacks 💻⚙️<br>💬 **Ask me about** the courage to make a professional career transition 📚🙋<br>⚡ **Fun fact** I’m a Barbie collector 🩰🎀 Tarot enthusiast 🔮 Horse and cat lover 🐎🐈
+<br>🔭 **I’m currently seeking to** launch 🚀 a brilliant carreer ✨ as Jr QA Analyst 🐞🔍<br>👯 **I’m looking to collaborate** on new projects👩‍💻 🆕<br>🤝 **I’m looking for** help to improve my knowledge and my networking 🧐🌐<br>🌱 **I’m currently learning** new stacks 💻⚙️<br>💬 **Ask me about** the courage to make a professional career transition 📚🙋<br>⚡ **Fun fact** I’m a Barbie collector 🩰🎀 Tarot enthusiast 🔮 Horse and cat lover 🐎🐈
 
 &nbsp;
 
