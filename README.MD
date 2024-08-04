@@ -1,12 +1,14 @@
 <img title="a title" alt="Alt text" src="https://img.freepik.com/premium-vector/software-tester-typographic-header-application-website-code-testing-software-development-debugging-it-specialist-searching-bugs-isolated-flat-vector-illustration_277904-15092.jpg?w=826">
 
-<h1 align="center">Angela Ribeiro</h1>
+<h1 align="center">Hello World, I´m Angela Ribeiro</h1>
 <h3 align="center">Jr QA Analyst 🐞🔍 from Portugal 🇵🇹</h3>
 
 &nbsp;
 
 💬 I´m a dedicated and meticulous QA analyst. I have a keen focus on detail, ensuring that every aspect of the software is rigorously evaluated through a comprehensive test sweep. My efficient and productive communication within the team facilitates collaboration and quick problem resolution. Staying up to date with the latest tools and methodologies is, for me, a passion. Furthermore, I value empathy, always trying to ensure that the final product is intuitive and "user friendly". With these qualities, I seek to evolve with success and distinction in the field of QA
+
 &nbsp;
+
 <br>🔭 **I’m currently seeking to** launch 🚀 a brilliant carreer ✨ as Jr QA Analyst 🐞🔍<br>👯 **I’m looking to collaborate** on new projects👩‍💻 🆕<br>🤝 **I’m looking for** help to improve my knowledge and my networking 🧐🌐<br>🌱 **I’m currently learning** new stacks 💻⚙️<br>💬 **Ask me about** the courage to make a professional career transition 📚🙋<br>⚡ **Fun fact** I’m a Barbie collector 🩰🎀 Tarot enthusiast 🔮 Horse and cat lover 🐎🐈
 
 &nbsp;
