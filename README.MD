@@ -13,9 +13,9 @@
 &nbsp;
 
 🔭 **I’m currently seeking to** launch 🚀 a brilliant carreer ✨ as Jr QA Analyst 🐞🔍<br>
-👯 **I’m looking to collaborate** on new projects👩‍💻 🆕<br>
+👯 **I’m looking to collaborate** on new and exciting projects👩‍💻 🆕<br>
 🤝 **I’m looking for** help to improve my knowledge and my networking 🧐🌐<br>
-🌱 **I’m currently learning** new stacks 💻⚙️<br>
+🌱 **I’m currently learning** logic programming and new stacks 💻⚙️<br>
 💬 **Ask me about** the courage to make a professional career transition 📚🙋<br>
 📧 **How to reach me angelaribeirosilva@gmail.com**<br>
 📄 **Know about my experiences [https://www.linkedin.com/in/angelaribeiro84/](https://www.linkedin.com/in/angelaribeiro84/)**<br>
