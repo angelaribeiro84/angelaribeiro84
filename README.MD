@@ -8,7 +8,7 @@
 
 &nbsp;
 
-✏️ I´m a dedicated and meticulous QA analyst. I have a keen focus on detail, ensuring that every aspect of the software is rigorously evaluated through a comprehensive test sweep. My efficient and productive communication within the team facilitates collaboration and quick problem resolution. Staying up to date with the latest tools and methodologies is, for me, a passion. Furthermore, I value empathy, always trying to ensure that the final product is intuitive and "user friendly". With these qualities, I seek to evolve with success and distinction in the field of QA<br>
+✏️I am a junior quality analyst currently transitioning in my professional career. I hold a degree in Radiology and have been working in the field for 18 years. As a detail-oriented person with a critical view of the constant need for "user-friendly" products that include and ensure accessibility for everyone, I see the field of Quality Assurance as the place to pursue this passion. I participated as a volunteer in the Hackathon Brazil 2024 with the Connect-Eco project, an interdisciplinary project that greatly helped me understand agile methodology.<br>
 
 &nbsp;
 
