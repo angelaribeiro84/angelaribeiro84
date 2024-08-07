@@ -8,7 +8,7 @@
 
 &nbsp;
 
-✏️I am a junior quality analyst currently transitioning in my professional career. I hold a degree in Radiology and have been working in the field for 18 years. As a detail-oriented person with a critical view of the constant need for "user-friendly" products that include and ensure accessibility for everyone, I see the field of Quality Assurance as the place to pursue this passion. I participated as a volunteer in the Hackathon Brazil 2024 with the Connect-Eco project, an interdisciplinary project that greatly helped me understand agile methodology.<br>
+✏️I am a junior quality analyst currently transitioning in my professional career. I hold a degree in Radiology and have been working in the field for 18 years. As a detail-oriented person with a critical view of the constant need for "user-friendly" products that include and ensure accessibility for everyone, I see the field of **Quality Assurance** as the place to pursue this passion. I participated as a volunteer in the **Hackathon Brazil 2024** with the Connect-Eco project, an interdisciplinary project that greatly helped me understand agile methodology.<br>
 
 &nbsp;
 
