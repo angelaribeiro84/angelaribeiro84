@@ -34,7 +34,9 @@
 &nbsp;
 
 ### ✍️ Random Quote
-<img title="Marie Curie" alt="Alt text" src="https://northlittlescientists.wordpress.com/wp-content/uploads/2017/07/0221a2ae6f8ba66df1d6de87a83997b4-inspirational-quotations-inspirational-thoughts.jpg?w=282">
+<div align="center">
+<img title="Random Quote" alt="Alt text" src="https://media.licdn.com/dms/image/D4D12AQH9oww1iWDWiQ/article-inline_image-shrink_1500_2232/0/1681824213521?e=1728518400&v=beta&t=1G1zUoJFRfDT1a9Zwt2ghnCIhs-GtE2DogiU31-TNuA">
+</div>
 &nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelaribeiro84&label=Profile%20views&color=0e75b6&style=flat" alt="angelaribeiro84" /> </p>
