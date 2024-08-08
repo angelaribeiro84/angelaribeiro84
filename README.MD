@@ -17,7 +17,7 @@
 🤝 **I’m looking for** help to improve my knowledge and my networking 🧐🌐<br>
 🌱 **I’m currently learning** logic programming and new stacks 💻⚙️<br>
 💬 **Ask me about** the courage to make a professional career transition 📚🙋<br>
-📢 **I speak** portuguese 🇵🇹 english 🇸🇬🇧 french 🇫🇷 spanish 🇪🇸 <br>
+📢 **I speak** portuguese🇵🇹 english🇬🇧 french🇫🇷 and spanish🇪🇸 <br>
 📧 **How to reach me angelaribeirosilva@gmail.com**<br>
 📄 **Know about my experiences [https://www.linkedin.com/in/angelaribeiro84/](https://www.linkedin.com/in/angelaribeiro84/)**<br>
 ⚡ **Fun fact** I’m a Barbie collector 🩰🎀 Tarot enthusiast 🔮 Horse and cat lover 🐎🐈<br>
