@@ -8,11 +8,13 @@
 
 &nbsp;
 
-✏️ I am a junior quality analyst currently transitioning into a new phase of my professional career. With a degree in Radiology and 18 years of experience in the field, I have developed a keen eye for detail and a critical perspective on the importance of user-friendly, accessible products. These qualities, as my personal life story, have fueled my passion for Quality Assurance, where I can ensure that technology meets the highest standards of usability and inclusivity.
+✏️ I'm a junior Quality Analyst transitioning my career into the IT word. I've a degree in Radiology and 18 years of experience how helped to developed a keen eye for detail and a critical perspective. These qualities, as my personal life story, have fueled my passion for Quality Assurance, where I can ensure that technology meets the highest standards of usability and inclusivity.
 
-My journey into QA has been shaped by my volunteer involvement in the **Hackathon Brazil 2024**. During this event, I contributed to the Connect-Eco app, an interdisciplinary initiative that provided me with valuable insights into agile methodology.
+My current skills include feature testing, checking and analyzing back and front-end requirements, observing and reporting errors that allow me to create detailed bug reports. I´ve graduted as QA Analyst at Tripleten Brazil (2024), starting by learning how to create checklists and detailed test cases on testing UI on Web applications. I've used Figma, JIRA, Postman, ApiDocs, Swagger and VSCode. I am currently improving my skills in programming logic, SQL as well as GitHub.
 
-As I continue to build my career in Quality Assurance, I am eager to leverage my background and skills to contribute to projects that enhance the quality and usability of software products.
+My journey into QA has been also shaped by my volunteer participation at **Hackathon Brazil 2024**. During this event, I contributed to the Connect-Eco app, an interdisciplinary initiative that provided me with valuable insights about agile methodology.
+
+As I continue to build my career as QA Analyst, I'm eager to leverage my background and skills but also grow and evolve technically to always keep up to date with constant market requests.
 
 <br>
 
