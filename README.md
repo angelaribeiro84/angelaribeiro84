@@ -10,7 +10,7 @@
 
 ✏️ I'm a junior Quality Analyst transitioning my career into the IT word. I've a degree in Radiology and 18 years of experience how helped to developed a keen eye for detail and a critical perspective. These qualities, as my personal life story, have fueled my passion for Quality Assurance, where I can ensure that technology meets the highest standards of usability and inclusivity.
 
-My current skills include feature testing, checking and analyzing back and front-end requirements, observing and reporting errors that allow me to create detailed bug reports. I´ve graduted as QA Analyst at Tripleten Brazil (2024), starting by learning how to create checklists and detailed test cases on testing UI on Web applications. I've used Figma, JIRA, Postman, ApiDocs, Swagger and VSCode. I am currently improving my skills in programming logic, SQL as well as GitHub.
+My current skills include black box tests, checking and analyzing back and front-end requirements, observing and reporting errors that allow me to create detailed bug reports. I´ve graduted as QA Analyst at Tripleten Brazil (2024), starting by learning how to create checklists and detailed test cases on testing UI on Web applications. I've used Figma, JIRA, Postman, ApiDocs, Swagger and VSCode. I am currently improving my skills in programming logic, SQL as well as GitHub.
 
 My journey into QA has been also shaped by my volunteer participation at **Hackathon Brazil 2024**. During this event, I contributed to the Connect-Eco app, an interdisciplinary initiative that provided me with valuable insights about agile methodology.
 
